@@ -1,4 +1,3 @@
-![Screenshot 2023-07-25 161831](https://github.com/ChiragKotian/digital-clock-using-flipflops-and-logic-gates-/assets/117931123/b966c7f0-ee64-4365-b034-dbcbaf1c9c72)
 # Digital Clock Made using Flip-Flops and Logic Gates
 
 In this project, we **_designed_** and **_implemented_** a **24-hour clock** using _7-Segment displays, BCD to 7-Segment Decoder ICs, flip-flops and logic gates_. _Arduino Uno R3_ acts as a _1-second clock_ signal generator.
