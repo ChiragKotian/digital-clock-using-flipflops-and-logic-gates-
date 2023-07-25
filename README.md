@@ -2,7 +2,11 @@
 
 In this project, we **_designed_** and **_implemented_** a **24-hour clock** using _7-Segment displays, BCD to 7-Segment Decoder ICs, flip-flops and logic gates_. _Arduino Uno R3_ acts as a _1-second clock_ signal generator.
 
-https://github.com/ChiragKotian/digital-clock-using-flipflops-and-logic-gates-/assets/117931123/74ad7604-ad27-4648-a2d7-af4c7173696d
+![image](https://github.com/ChiragKotian/digital-clock-using-flipflops-and-logic-gates-/assets/117931123/355239da-1dac-457b-81ab-4ff2412e8537)
+
+
+https://github.com/ChiragKotian/digital-clock-using-flipflops-and-logic-gates-/assets/117931123/d61a066d-a101-47c4-9d0f-999da9008ae6
+
 
 The clock was _designed_ and _simulated_ before implementation on **_Logisim_** software.
 
@@ -50,6 +54,8 @@ This counter is used once each in the hours, minutes and seconds section.
 
 ![Screenshot 2023-07-25 161836](https://github.com/ChiragKotian/digital-clock-using-flipflops-and-logic-gates-/assets/117931123/3d79d4c9-9757-46c7-8353-d6a8006baffb)
 
+https://github.com/ChiragKotian/digital-clock-using-flipflops-and-logic-gates-/assets/117931123/ad8a5d1e-5052-4485-ba31-dc2bb30a3330
+
 ### 3. MOD 6 Counter:
 
 This counter is used once each in the minutes and seconds section.
@@ -63,7 +69,7 @@ This counter is used once each in the minutes and seconds section.
 
 ### 4. MOD 3 Counter:
 
-This counter is used in hours section.
+This counter is used in the hours section.
 
 ![Screenshot 2023-07-25 161849](https://github.com/ChiragKotian/digital-clock-using-flipflops-and-logic-gates-/assets/117931123/c5a3620d-29df-4ec9-8158-24f0ad87cb97)
 
